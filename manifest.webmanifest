@@ -1,0 +1,15 @@
+{
+  "name": "Undercover",
+  "short_name": "Undercover",
+  "description": "Jeu d'ambiance et de déduction sociale, à jouer sur un seul téléphone.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14121f",
+  "theme_color": "#14121f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
